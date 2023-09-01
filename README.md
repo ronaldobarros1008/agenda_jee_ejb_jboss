@@ -1,4 +1,4 @@
-# CRUD com angular e Java EE
+# CRUD com AngularJS e Java EE
 
 Tecnologias utilizadas
 -------
